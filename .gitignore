@@ -1,0 +1,14 @@
+# env
+.env
+
+# node
+node_modules/
+dist/
+
+# python
+__pycache__/
+*.pyc
+.venv/
+
+# docker
+*.log
